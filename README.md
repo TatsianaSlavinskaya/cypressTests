@@ -1,0 +1,1 @@
+To run with reporting use: npm run reporting

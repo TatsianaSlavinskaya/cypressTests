@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "tests": "cypress open",
+    "reporting": "cypress run"
+  },
+  "devDependencies": {
+    "cypress": "^3.1.4",
+    "reportportal-client": "^5.1.0"
+  }
+}
