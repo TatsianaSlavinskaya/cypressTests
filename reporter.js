@@ -33,8 +33,8 @@ function Reporter (runner) {
   const config ={
     attachScreenshots: true,
     showPassedHooks: false,
+    token: "gchgcvjhv",
     launch: "tatsiana_slavinskaya_TEST_EXAMPLE",
-    token: "4ac73326-774e-4fc1-af7c-222e9b7555aa",
     project: "tatsiana_slavinskaya_personal",
     endpoint: "https://rp.epam.com/api/v1",
   };
